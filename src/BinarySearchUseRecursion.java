@@ -6,7 +6,7 @@ public class BinarySearchUseRecursion {
             System.out.print(arr[i] + "  ");
         }
         System.out.println();
-        System.out.println(binarySearch(arr, 8));
+        System.out.println(binarySearch(arr, 20));
     }
 
     public static int binarySearch(int[] list, int key) {
